@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Judo</string>
+    <string name="sportName">Judo</string>
+    <string name="teamA">Hajime</string>
+    <string name="teamB">Shido</string>
+    <string name="pointA">Ippon</string>
+    <string name="pointB">Waza ari</string>
+    <string name="pointC">Yuko</string>
+    <string name="pointD">Koka</string>
+    <string name="reset">Reset</string>
+</resources>
